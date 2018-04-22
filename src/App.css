@@ -16,20 +16,41 @@
 }
 
 .App-title {
-    font-size: 1.5em;
+    font-size: 2.5em;
 }
 
 .App-intro {
+    /* background-image: url('/public/korea-vector.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat; */
     font-size: 12px;
-    height: 100vh;
+    height: 85vh;
     padding: 20px;
+    text-align: left;
+    display: flex;
 }
 
 ol {
     text-align: left;
 }
 
-.section1, .section2, .section3 {
+.App-intro-text {
+    width: 60%;
+}
+
+.App-intro-img {
+    width:40%;
+}
+
+.korea-vector-img {
+    float: right;
+    max-height: 100vh;
+    z-index: -99;
+    clear: left;
+}
+
+.section1, .section2, .section3, .section4, .section5 {
     height: 100vh;
     padding: 20px;
     font-size: 12px;
@@ -39,11 +60,33 @@ h1 {
     font-size: 25px;
 }
 
+a {
+    color: #5E7FD9;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #b7b7b7;
+    text-decoration: underline;
+}
+
+b {
+    color: #5E7FD9;
+}
+
+.App-section-title {
+    font-size: 30px;
+}
+
 .section1 {
     background-color: #5E7FD9;
 }
 
 .section3 {
+    background-color: #5E7FD9;
+}
+
+.section5 {
     background-color: #5E7FD9;
 }
 
