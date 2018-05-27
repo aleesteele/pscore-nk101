@@ -10,6 +10,10 @@
 
 .App-header {
     background-color: #5E7FD9;
+    /* background-image: url("/public/pscorebanner1.jpg"); */
+    /* background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat; */
     height: 150px;
     padding: 20px;
     color: white;
@@ -19,13 +23,17 @@
     font-size: 2.5em;
 }
 
+.App-section-bg-img {
+
+}
+
 .App-intro {
     /* background-image: url('/public/korea-vector.png');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat; */
     font-size: 12px;
-    height: 85vh;
+    /* height: 85vh; */
     padding: 20px;
     text-align: left;
     display: flex;
@@ -51,7 +59,7 @@ ol {
 }
 
 .section1, .section2, .section3, .section4, .section5 {
-    height: 100vh;
+    /* height: 100vh; */
     padding: 20px;
     font-size: 12px;
 }
