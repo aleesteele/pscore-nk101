@@ -36,7 +36,7 @@ class Section4 extends Component {
                     </h3>
                 </div>
                 <div className="App-intro-img">
-                    <img src="pyongyang-three-sickles.svg" className="korea-vector-img"/>
+                    <img src="kim-cartoon.svg" className="korea-vector-img"/>
                 </div>
             </div>
         );

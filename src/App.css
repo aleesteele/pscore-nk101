@@ -58,6 +58,8 @@ ol {
 .korea-vector-img {
     float: right;
     max-height: 100vh;
+    align-content: center;
+    align-items: center;
     z-index: -99;
     clear: left;
 }
