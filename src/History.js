@@ -33,8 +33,17 @@ class HistorySection extends Component {
                     The Korean War begins.
                     <br/><br/>
                     <b>1953</b><br/>
-                    The Korean War ends with a promise to adopt a solution for a united Korea in Geneva. No plan is adopted, and since then, North Korea (Democratic People's Republic of Korea) and South Korea (Republic of Korea) have diverged widely.
-                </h3>
+                    The Korean War ends with an armistice, and a promise to adopt a solution for a united Korea in Geneva. No plan is adopted. North Korea (Democratic People's Republic of Korea) and South Korea (Republic of Korea) begin to diverge widely.
+                    <br/><br/>
+                    <b>1994</b><br/>
+                    Kim Il-Sung dies, and is succeeded by his son Kim Jong-il.
+                    <br/><br/>
+                    <b>1998</b><br/>
+                    North Korea launches its first long-range missiles.
+                    <br/><br/>
+                    <b>2011</b><br/>
+                    Kim Jong-il dies, and is succeeded by his youngest son Kim Jong-un.
+                </h3><br/>
             </div>
         );
     }
