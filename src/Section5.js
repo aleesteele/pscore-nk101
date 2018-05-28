@@ -10,7 +10,7 @@ class Section5 extends Component {
         return (
             <div className="section5">
                 <div className="App-intro-img">
-                    <img src="pyongyang-three-sickles.svg" className="korea-vector-img"/>
+                    <img src="missiles-launching.svg" className="korea-vector-img"/>
                 </div>
                 <div className="section-text">
                     <h1 className="App-section-title">People and Politics</h1>
