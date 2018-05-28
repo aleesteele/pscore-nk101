@@ -1,3 +1,7 @@
+* {
+    /* font-family: georgia; */
+}
+
 .App {
     text-align: center;
     padding: 0px;
@@ -58,11 +62,6 @@ ol {
     clear: left;
 }
 
-.section1, .section2, .section3, .section4, .section5 {
-    /* height: 100vh; */
-    padding: 20px;
-    font-size: 12px;
-}
 
 h1 {
     font-size: 25px;
@@ -70,7 +69,7 @@ h1 {
 
 h3 {
     font-size: 15;
-    font-style: normal;  
+    font-weight: lighter;
 }
 
 a {
@@ -87,21 +86,6 @@ b {
     color: #5E7FD9;
 }
 
-.App-section-title {
-    font-size: 30px;
-}
-
-.section1 {
-    background-color: #5E7FD9;
-}
-
-.section3 {
-    background-color: #5E7FD9;
-}
-
-.section5 {
-    background-color: #5E7FD9;
-}
 
 @keyframes App-logo-spin {
     from {

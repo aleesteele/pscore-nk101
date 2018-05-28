@@ -1,5 +1,39 @@
 .section1, .section2, .section3, .section4, .section5 {
-    height: 80vh;
+    /* min-height: 80vh; */
     padding: 20px;
     font-size: 12px;
+    display: flex;
+    /* text-align: left; */
+}
+
+.App-section-title {
+    font-size: 30px;
+}
+
+.section1 {
+    background-color: #5E7FD9;
+    color: #FFFFFF;
+    text-align: right;
+}
+
+.section2 {
+    text-align: left;
+}
+
+.section3 {
+    background-color: #5E7FD9;
+    text-align: right;
+}
+
+.section4 {
+    text-align: left;
+}
+
+.section5 {
+    background-color: #5E7FD9;
+    text-align: right;
+}
+
+.section-text {
+    padding: 10px;
 }
